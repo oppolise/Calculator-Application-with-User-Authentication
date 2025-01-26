@@ -1,5 +1,5 @@
 # Calculator Application with User Authentication
-
+#
 A simple C-based calculator application that includes user registration and login functionality along with basic mathematical operations.
 
 ## Features

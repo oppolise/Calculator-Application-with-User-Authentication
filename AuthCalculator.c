@@ -6,7 +6,7 @@
 
 
 FILE *file;          
-char id_user[30];     
+char id_user[300];     
 char pass_user[30];
 
 void Register();
